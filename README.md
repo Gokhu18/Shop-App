@@ -1,6 +1,6 @@
-# fourth_app
+# Shop_app
 
-A new Flutter project.
+Flutter winter 2019 project.
 
 ## Getting Started
 
